@@ -1,2 +1,5 @@
+
 "conflict" 
 "edited merge conflict" 
+"conflict from branch" 
+
